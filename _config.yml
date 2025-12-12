@@ -8,10 +8,10 @@ url: ""
 # about 5 elements are recomended
 meetup_page: aws-user-group-venezia
 telegram_username: awsugvenezia
-# mastodon_username: 
+mastodon_username: mstdn.party/@awsugvenezia
 github_username: awsugvenezia
 linkedin_username: aws-user-group-venezia
-instagram_username: awsusergroupve
+instagram_username: awsugvenezia
 youtube_channel: AWSUserGroupVenezia
 
 avatar: yes
