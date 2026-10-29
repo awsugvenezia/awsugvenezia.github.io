@@ -14,6 +14,7 @@ linkedin_username: aws-user-group-venezia
 instagram_username: awsugvenezia
 youtube_channel: AWSUserGroupVenezia
 sessionize_page: aws-user-group-venezia
+about_url: /about-us/
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.png"
@@ -23,12 +24,12 @@ avatar_img_path: "https://avatars.githubusercontent.com/u/234435667"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
+front_img_path: "/imgs/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 
 favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
+favicon_img_path: "/imgs/favicon.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
 
 
